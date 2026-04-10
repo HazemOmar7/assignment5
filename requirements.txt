@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pandas
+torch.nn
+sklearn.linear_model
